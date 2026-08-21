@@ -18,3 +18,13 @@ A clinical analytics Power BI dashboard designed to evaluate heart disease patie
 
 ---
 
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard View 1](Screenshot%202026-08-05%20215737.png)
+
+![Dashboard View 2](Screenshot%202026-08-05%20215752.png)
+
+![Dashboard View 3](Screenshot%202026-08-05%20215805.png)
+
